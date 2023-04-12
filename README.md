@@ -1,14 +1,12 @@
-# Hello World 👋
+## Hello World 👋
 I am a fullstack software engineer located in Richmond, VA. 
 - ⏲ My first project was a countdown timer for video project. Working with JavaScript and After Effects.
 - 👨🏼‍💻 I then jumped into a full stack development bootcamp where I learned Javascript, React, Node, Express and many other technologies. 
 - 🛠 Now I'm always working on bulding something new and learning everything I can about developing. 
 - 🎥 I also work at Hope Church - creating compelling videos and telling meaningful stories as their Video Specialist!
-<br>
-<br>
+
 ## Current Tech
 Javascript, React, Node, TailwindCSS, MongoDB, MySQL, Express.
-<br>
 
 
 ## Connect with me
