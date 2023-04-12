@@ -1,4 +1,4 @@
-# Hello World 👋
+## Hello World 👋
 I am a fullstack software engineer located in Richmond, VA. 
 - ⏲ My first project was a countdown timer for video project. Working with JavaScript and After Effects.
 - 👨🏼‍💻 I then jumped into a full stack development bootcamp where I learned Javascript, React, Node, Express and many other technologies. 
